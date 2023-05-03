@@ -40,7 +40,7 @@ emoji==1.7.0
 entrypoints==0.3
 et-xmlfile==1.1.0
 executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
-Flask==2.1.1
+Flask==2.2.5
 Flask-Compress==1.11
 flask-ngrok==0.0.25
 fonttools==4.25.0
